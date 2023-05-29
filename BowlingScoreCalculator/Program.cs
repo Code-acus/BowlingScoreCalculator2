@@ -156,23 +156,23 @@ public class Program
 
         double percentage = (double)score / 300 * 100;
         /*
-         
+        Note: These comments apply identically to the C++ and C# versions of this program. 
         Calculation of the score percentage:
-        The program has calculated A score percentage based on the players total score in the bowling game.
-        The score percentage represents the proportion the player achieved relative 
-        to the maximum possible score (300) in the game.
+            The program has calculated A score percentage based on the players total score in the bowling game.
+            The score percentage represents the proportion the player achieved relative 
+            to the maximum possible score (300) in the game.
 
         Percentage representation:
-        A score with a low percentage should suggest the player has achieved a 
-        relatively low percentage of the maximum score.
+             A score with a low percentage should suggest the player has achieved a 
+             relatively low percentage of the maximum score.
 
-        It indicates that there is room for improvement in the player's bowling performance 
-        needed to increase their score percentage.
+            It indicates that there is room for improvement in the player's bowling performance 
+            needed to increase their score percentage.
         
         Assessment of performance:
 
-        The score percentage can serve as a benchmark to evaluate a user's bowling skills and progress.
-        It provides an indication of how effectively they have utilized scoring opportunities in their game.
+            The score percentage can serve as a benchmark to evaluate a user's bowling skills and progress.
+            It provides an indication of how effectively they have utilized scoring opportunities in their game.
         
         */
         Console.WriteLine($"Your score percentage is: {percentage.ToString("0.##")}%");
