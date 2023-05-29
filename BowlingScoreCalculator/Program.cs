@@ -119,7 +119,7 @@ public class Program
                 continue;
             }
 
-                        var parts = input.Split(',');
+            var parts = input.Split(',');
             int pins1 = Int32.Parse(parts[0]);
             int pins2 = parts.Length > 1 ? Int32.Parse(parts[1]) : 0;
 
@@ -199,4 +199,3 @@ public class Program
         }
     }
 }
-
