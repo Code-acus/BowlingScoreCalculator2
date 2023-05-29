@@ -155,12 +155,50 @@ public class Program
         Console.WriteLine($"Your game score is: {score.ToString().PadLeft(3, '0')} / 300");
 
         double percentage = (double)score / 300 * 100;
+        /*
+         
+        Calculation of the score percentage:
+        The program has calculated A score percentage based on the players total score in the bowling game.
+        The score percentage represents the proportion the player achieved relative 
+        to the maximum possible score (300) in the game.
+
+        Percentage representation:
+        A score with a low percentage should suggest the player has achieved a 
+        relatively low percentage of the maximum score.
+
+        It indicates that there is room for improvement in the player's bowling performance 
+        needed to increase their score percentage.
+        
+        Assessment of performance:
+
+        The score percentage can serve as a benchmark to evaluate a user's bowling skills and progress.
+        It provides an indication of how effectively they have utilized scoring opportunities in their game.
+        
+        */
         Console.WriteLine($"Your score percentage is: {percentage.ToString("0.##")}%");
 
         int handicap = 200 - score;
         Console.WriteLine($"Your handicap is: {handicap}");
 
         int comparedToAverage = score - 150;
+        /*
+         
+        The statement "Compared to the national average (150), your score is:... should be interpreted as follows:
+
+        National average score:
+            The national average score for bowling games is set as 150. This represents an average or 
+            benchmark score that might be commonly used as a reference point in a real world application.
+        
+        Calculation of the difference:
+            Here, the program calculate the difference between the players total score and the national average score.
+            With the difference is either being a ( - ) or a ( + ), thus indicating that
+            the player's score is a negative sum of points below the national average or 
+            as positive sum of points above the national average. This value is not based on any "real" derived metrics. 
+            Rather the national average, as it were, is to give a sense of where a bowler might fall if the bowler
+            were using this application to improve their game. In reality such as application would need to be far
+            more advanced than what I have written here.
+            
+        */
         Console.WriteLine($"Compared to the national average (150), your score is: {(comparedToAverage >= 0 ? "+" : "")}{comparedToAverage}");
 
         string advice = provideAdvice(score);
