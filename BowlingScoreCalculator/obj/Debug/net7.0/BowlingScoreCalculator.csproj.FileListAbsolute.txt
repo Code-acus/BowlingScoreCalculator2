@@ -1,0 +1,15 @@
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.AssemblyInfo.cs
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\net7.0\BowlingScoreCalculator.exe
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\net7.0\BowlingScoreCalculator.deps.json
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\net7.0\BowlingScoreCalculator.runtimeconfig.json
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\net7.0\BowlingScoreCalculator.dll
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\net7.0\BowlingScoreCalculator.pdb
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.dll
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\refint\BowlingScoreCalculator.dll
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.pdb
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\BowlingScoreCalculator.genruntimeconfig.cache
+C:\Users\hrogers.HFR\RiderProjects\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\net7.0\ref\BowlingScoreCalculator.dll
